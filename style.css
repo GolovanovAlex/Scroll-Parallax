@@ -89,3 +89,9 @@ section img#mountains_front {
   z-index: 9;
   transform: translateY(100px);
 }
+.text {
+  display: block;
+}
+.text p {
+  margin-bottom: 25px;
+}
