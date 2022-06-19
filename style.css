@@ -95,6 +95,10 @@ section img#mountains_front {
   padding: 100px;
   background-color: #1c0522;
 }
+.title__h2 {
+  font-size: 3.5em;
+  margin-bottom: 10px;
+}
 .text p {
   font-size: 16px;
   margin-bottom: 25px;
