@@ -70,6 +70,15 @@ section img#moon {
 section img#mountains_front {
   z-index: 10;
 }
+.header__img::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(to top, #1c0522, transparent);
+  z-index: 100;
+}
 #text {
   position: absolute;
   white-space: nowrap;
