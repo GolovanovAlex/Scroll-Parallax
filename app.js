@@ -8,5 +8,6 @@ let title = document.getElementById('text');
 window.addEventListener('scroll', function () {
   let value = window.scrollY;
   stars.style.left = value * 0.25 + 'px';
-  moon.style.right = value + 'px';
+  moon.style.top = value * 1.05 + 'px';
+  mountainsBehind.style.top = value * 0.5 + 'px';
 });
