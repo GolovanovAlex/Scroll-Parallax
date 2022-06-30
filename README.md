@@ -10,12 +10,13 @@
 
 [Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/KKowMry)
 
-![image-ball.gif](readme/ball.gif)
+![image-parallax.gif](readme/parallax.gif)
 
 ## Info
 
 Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).  
-Для обучения и отработки работы с CSS.
+Для обучения и отработки работы с CSS и JavaScript.
+Создание паралакс эффекта при скроле сайта.
 
 ---
 
