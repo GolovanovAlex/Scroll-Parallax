@@ -15,7 +15,7 @@
 ## Info
 
 Создано на основе видео с Youtube канала [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).  
-Для обучения и отработки работы с CSS и JavaScript.
+Для обучения и отработки работы с CSS и JavaScript.  
 Создание паралакс эффекта при скроле сайта.
 
 ---
